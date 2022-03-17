@@ -1,7 +1,7 @@
-# Final Project - Weather Data
+# Final Project - Weather Data Processing by Python
 
 ## Features
-- Process the weather data
+- Input the weather data
 - Handle missing data
 - Convert data into readable language
 - Calculate special values
